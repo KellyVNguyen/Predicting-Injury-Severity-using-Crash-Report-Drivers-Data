@@ -1,9 +1,7 @@
 # Predicting-Injury-Severity-using-Crash-Report-Drivers-Data
 - Data 4380 Tabular Project
 - **Group members**: Kelly Nguyen, Victoria Phan, Christopher Rodriguez
-- Link to dataset: https://catalog.data.gov/dataset/crash-reporting-drivers-data
-
-**Dataset:** [Crash Reporting – Drivers Data](https://catalog.data.gov/dataset/crash-reporting-drivers-data)
+- **Dataset:** [Crash Reporting – Drivers Data](https://catalog.data.gov/dataset/crash-reporting-drivers-data)
 
 ## Overview
 Motor vehicle crashes can result in injuries of varying severity. Understanding the factors associated with these outcomes can help identify patterns in crash data and provide insights into traffic safety.
