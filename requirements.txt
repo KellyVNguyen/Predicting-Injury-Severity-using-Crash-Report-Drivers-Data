@@ -1,0 +1,23 @@
+# Data 4380 - crash injury severity notebook (updated version, 140 cells)
+
+# Core data handling
+pandas>=2.0
+numpy>=1.24
+
+# Plotting / EDA
+matplotlib>=3.7
+seaborn>=0.13
+missingno>=0.5.2
+
+# Modeling - pinned as a pair (imbalanced-learn breaks on mismatched sklearn versions)
+# sklearn: LogisticRegression, RandomForest, HistGradientBoosting, permutation_importance
+# imblearn: Random over/under sampling, SMOTE, SMOTENC, BalancedRandomForestClassifier
+scikit-learn==1.6.1
+imbalanced-learn==0.13.0
+
+# Gradient boosting (XGBClassifier with tree_method="hist")
+xgboost>=2.0
+
+# Jupyter kernel for the env
+ipykernel
+jupyter
